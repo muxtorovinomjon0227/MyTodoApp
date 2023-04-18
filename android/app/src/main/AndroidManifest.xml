@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.up_todo">
+    package="com.example.up_todo_inomjon">
    <application
         android:label="up_todo"
         android:name="${applicationName}"
